@@ -1,3 +1,3 @@
 # SimH92
 # Hello! My name is Simson.
-# I am a student at CodeInsititute
+# I am a student at CodeInstitute
